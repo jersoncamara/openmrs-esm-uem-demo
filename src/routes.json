@@ -6,6 +6,11 @@
   },
   "extensions": [
     {
+      "name": "Hello UEM",
+      "component": "HelloUEM",
+      "slot": "patient-chart-summary-dashboard-slot"
+    },
+    {
       "name": "Red box",
       "component": "redBox",
       "slot": "Boxes"
