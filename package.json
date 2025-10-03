@@ -1,9 +1,9 @@
 {
-  "name": "@jersoncamara/esm-template-app",
+  "name": "@jersoncamara/esm-uem-demo-app",
   "version": "1.0.0",
   "license": "MPL-2.0",
   "description": "An OpenMRS seed application for building microfrontends",
-  "browser": "dist/openmrs-esm-template-app.js",
+  "browser": "dist/openmrs-esm-uem-demo-app.js",
   "main": "src/index.ts",
   "source": true,
   "scripts": {
